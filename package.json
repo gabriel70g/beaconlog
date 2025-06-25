@@ -1,0 +1,22 @@
+{
+  "name": "beaconlog",
+  "version": "0.0.1",
+  "description": "BeaconLog: A modern observability framework for Node.js and microservices. Coming soon.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabriel70g/beaconlog.git"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "observability",
+    "logging",
+    "framework",
+    "nodejs",
+    "tracing"
+  ],
+  "author": "Gabriel Alejandro Gomez <gabriel70@gmail.com>",
+  "license": "MIT"
+}
