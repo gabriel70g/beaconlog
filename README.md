@@ -12,3 +12,5 @@ Stay tuned for updates and the first stable release!
 
 - [GitHub Repository](https://github.com/gabriel70g/beaconlog)
 - [Contact Author](mailto:gabriel70@gmail.com)
+
+# Coming soon!
